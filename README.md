@@ -36,8 +36,7 @@ The **Shopping List App** is a modern and minimalistic application designed to m
 ## Highlights
 
 Check out a demo of the app in action:  
-![Shopping List App Demo](https://i.imgur.com/NPZAUO9.gif)
-
+![GIF](https://github.com/Liron4/ShoppingListApp/blob/main/demovideo.gif)
 ---
 
 Enjoy the app and happy shopping! 🛒
